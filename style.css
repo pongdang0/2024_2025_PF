@@ -20,3 +20,13 @@ body{
     src: url('./font/S-Core_Dream_OTF/SCDream8.otf') format('OpenType');
 }
 @import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css");
+/*---font---*/
+.top{
+    font-family: 'S-CoreDream-4heady';
+    font-size: 20px;
+    display: block;
+    color:#ffffff;
+    background-color: #000000;
+    margin:20px;
+
+}
